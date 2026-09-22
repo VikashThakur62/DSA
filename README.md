@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VikashThakur62/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/VikashThakur62/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [3525-find-x-value-of-array-ii](https://github.com/VikashThakur62/DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VikashThakur62/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3525-find-x-value-of-array-ii](https://github.com/VikashThakur62/DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Stack
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/VikashThakur62/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/VikashThakur62/DSA/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
