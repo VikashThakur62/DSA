@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VikashThakur62/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0215-kth-largest-element-in-an-array](https://github.com/VikashThakur62/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/VikashThakur62/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3525-find-x-value-of-array-ii](https://github.com/VikashThakur62/DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Math
@@ -85,4 +86,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/VikashThakur62/DSA/tree/master/3525-find-x-value-of-array-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/VikashThakur62/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/VikashThakur62/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/VikashThakur62/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/VikashThakur62/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
