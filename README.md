@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/VikashThakur62/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VikashThakur62/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/VikashThakur62/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VikashThakur62/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/VikashThakur62/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3525-find-x-value-of-array-ii](https://github.com/VikashThakur62/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VikashThakur62/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/VikashThakur62/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/VikashThakur62/DSA/tree/master/1096-brace-expansion-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VikashThakur62/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VikashThakur62/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VikashThakur62/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/VikashThakur62/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/VikashThakur62/DSA/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VikashThakur62/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Counting
 |  |
 | ------- |
