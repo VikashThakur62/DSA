@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VikashThakur62/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VikashThakur62/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/VikashThakur62/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1584-min-cost-to-connect-all-points](https://github.com/VikashThakur62/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VikashThakur62/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/VikashThakur62/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3525-find-x-value-of-array-ii](https://github.com/VikashThakur62/DSA/tree/master/3525-find-x-value-of-array-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/VikashThakur62/DSA/tree/master/0200-number-of-islands) |
+| [1584-min-cost-to-connect-all-points](https://github.com/VikashThakur62/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Greedy
 |  |
 | ------- |
@@ -178,4 +180,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VikashThakur62/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/VikashThakur62/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/VikashThakur62/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/VikashThakur62/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/VikashThakur62/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/VikashThakur62/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
