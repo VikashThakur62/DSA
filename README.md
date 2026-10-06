@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VikashThakur62/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/VikashThakur62/DSA/tree/master/1096-brace-expansion-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VikashThakur62/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VikashThakur62/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/VikashThakur62/DSA/tree/master/1096-brace-expansion-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VikashThakur62/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VikashThakur62/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VikashThakur62/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Queue
 |  |
 | ------- |
@@ -166,8 +168,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VikashThakur62/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VikashThakur62/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VikashThakur62/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VikashThakur62/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Two Pointers
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VikashThakur62/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
