@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/VikashThakur62/DSA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/VikashThakur62/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VikashThakur62/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/VikashThakur62/DSA/tree/master/0200-number-of-islands) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/VikashThakur62/DSA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/VikashThakur62/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/VikashThakur62/DSA/tree/master/0200-number-of-islands) |
 ## Union-Find
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/VikashThakur62/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/VikashThakur62/DSA/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
