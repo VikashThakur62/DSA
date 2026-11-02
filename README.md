@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/VikashThakur62/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/VikashThakur62/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VikashThakur62/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/VikashThakur62/DSA/tree/master/1096-brace-expansion-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/VikashThakur62/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VikashThakur62/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/VikashThakur62/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/VikashThakur62/DSA/tree/master/1096-brace-expansion-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VikashThakur62/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/VikashThakur62/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VikashThakur62/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1096-brace-expansion-ii](https://github.com/VikashThakur62/DSA/tree/master/1096-brace-expansion-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VikashThakur62/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
