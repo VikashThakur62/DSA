@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VikashThakur62/DSA/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/VikashThakur62/DSA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/VikashThakur62/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VikashThakur62/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VikashThakur62/DSA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/VikashThakur62/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VikashThakur62/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/VikashThakur62/DSA/tree/master/0387-first-unique-character-in-a-string) |
