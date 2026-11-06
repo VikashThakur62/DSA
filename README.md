@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VikashThakur62/DSA/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/VikashThakur62/DSA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/VikashThakur62/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/VikashThakur62/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VikashThakur62/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0174-dungeon-game](https://github.com/VikashThakur62/DSA/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/VikashThakur62/DSA/tree/master/0200-number-of-islands) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VikashThakur62/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/VikashThakur62/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/VikashThakur62/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VikashThakur62/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VikashThakur62/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/VikashThakur62/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/VikashThakur62/DSA/tree/master/0200-number-of-islands) |
 | [1584-min-cost-to-connect-all-points](https://github.com/VikashThakur62/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Greedy
