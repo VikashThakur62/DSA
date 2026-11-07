@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VikashThakur62/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/VikashThakur62/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/VikashThakur62/DSA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/VikashThakur62/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/VikashThakur62/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/VikashThakur62/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/VikashThakur62/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/VikashThakur62/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VikashThakur62/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VikashThakur62/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/VikashThakur62/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/VikashThakur62/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/VikashThakur62/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VikashThakur62/DSA/tree/master/0242-valid-anagram) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/VikashThakur62/DSA/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VikashThakur62/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/VikashThakur62/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VikashThakur62/DSA/tree/master/0242-valid-anagram) |
