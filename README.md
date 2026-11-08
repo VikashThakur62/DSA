@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VikashThakur62/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VikashThakur62/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/VikashThakur62/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/VikashThakur62/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/VikashThakur62/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1584-min-cost-to-connect-all-points](https://github.com/VikashThakur62/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VikashThakur62/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -229,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/VikashThakur62/DSA/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/VikashThakur62/DSA/tree/master/0174-dungeon-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/VikashThakur62/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
