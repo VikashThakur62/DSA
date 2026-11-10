@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/VikashThakur62/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VikashThakur62/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0174-dungeon-game](https://github.com/VikashThakur62/DSA/tree/master/0174-dungeon-game) |
+| [0189-rotate-array](https://github.com/VikashThakur62/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/VikashThakur62/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VikashThakur62/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/VikashThakur62/DSA/tree/master/0217-contains-duplicate) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VikashThakur62/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/VikashThakur62/DSA/tree/master/0189-rotate-array) |
 | [2409-count-days-spent-together](https://github.com/VikashThakur62/DSA/tree/master/2409-count-days-spent-together) |
 | [3525-find-x-value-of-array-ii](https://github.com/VikashThakur62/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VikashThakur62/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/VikashThakur62/DSA/tree/master/0189-rotate-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VikashThakur62/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Graph Theory
 |  |
