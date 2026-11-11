@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/VikashThakur62/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/VikashThakur62/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VikashThakur62/DSA/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/VikashThakur62/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/VikashThakur62/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1584-min-cost-to-connect-all-points](https://github.com/VikashThakur62/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VikashThakur62/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/VikashThakur62/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/VikashThakur62/DSA/tree/master/0283-move-zeroes) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VikashThakur62/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Graph Theory
 |  |
