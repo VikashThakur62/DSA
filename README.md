@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VikashThakur62/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/VikashThakur62/DSA/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/VikashThakur62/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/VikashThakur62/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/VikashThakur62/DSA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/VikashThakur62/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VikashThakur62/DSA/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/VikashThakur62/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/VikashThakur62/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/VikashThakur62/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/VikashThakur62/DSA/tree/master/0217-contains-duplicate) |
