@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/VikashThakur62/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VikashThakur62/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/VikashThakur62/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/VikashThakur62/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3525-find-x-value-of-array-ii](https://github.com/VikashThakur62/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VikashThakur62/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VikashThakur62/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/VikashThakur62/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/VikashThakur62/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VikashThakur62/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VikashThakur62/DSA/tree/master/0283-move-zeroes) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VikashThakur62/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/VikashThakur62/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Graph Theory
 |  |
 | ------- |
