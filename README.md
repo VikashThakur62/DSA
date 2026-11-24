@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VikashThakur62/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/VikashThakur62/DSA/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/VikashThakur62/DSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/VikashThakur62/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/VikashThakur62/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/VikashThakur62/DSA/tree/master/0063-unique-paths-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/VikashThakur62/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/VikashThakur62/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/VikashThakur62/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VikashThakur62/DSA/tree/master/0283-move-zeroes) |
