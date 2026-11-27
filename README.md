@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VikashThakur62/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/VikashThakur62/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/VikashThakur62/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/VikashThakur62/DSA/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/VikashThakur62/DSA/tree/master/0912-sort-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/VikashThakur62/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VikashThakur62/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/VikashThakur62/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/VikashThakur62/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/VikashThakur62/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/VikashThakur62/DSA/tree/master/0706-design-hashmap) |
 | [1096-brace-expansion-ii](https://github.com/VikashThakur62/DSA/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VikashThakur62/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Counting
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/VikashThakur62/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/VikashThakur62/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/VikashThakur62/DSA/tree/master/0706-design-hashmap) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -310,8 +313,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/VikashThakur62/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/VikashThakur62/DSA/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/VikashThakur62/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/VikashThakur62/DSA/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
