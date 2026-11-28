@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VikashThakur62/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/VikashThakur62/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/VikashThakur62/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/VikashThakur62/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/VikashThakur62/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/VikashThakur62/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/VikashThakur62/DSA/tree/master/0706-design-hashmap) |
